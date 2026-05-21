@@ -12,7 +12,7 @@ This repository contains free resources to learn System Design concepts and prep
 
 ## ⚙️ Core Concepts
 - [Scalability](https://algomaster.io/learn/system-design/scalability) ✅
-- [Availability](https://algomaster.io/learn/system-design/availability)
+- [Availability](https://algomaster.io/learn/system-design/availability) ✅
 - [Reliability](https://algomaster.io/learn/system-design/reliability)
 - [SPOF](https://algomaster.io/learn/system-design/single-point-of-failure-spof)
 - [Latency vs Throughput vs Bandwidth](https://algomaster.io/learn/system-design/latency-vs-throughput)
