@@ -11,7 +11,7 @@ This repository contains free resources to learn System Design concepts and prep
 ✅ If you are new to System Design, start here: [System Design was HARD until I Learned these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts)
 
 ## ⚙️ Core Concepts
-- [Scalability](https://algomaster.io/learn/system-design/scalability)
+- [Scalability](https://algomaster.io/learn/system-design/scalability) ✅
 - [Availability](https://algomaster.io/learn/system-design/availability)
 - [Reliability](https://algomaster.io/learn/system-design/reliability)
 - [SPOF](https://algomaster.io/learn/system-design/single-point-of-failure-spof)
